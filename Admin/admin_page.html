@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/admin_page.css" class="css">
+
+    <title> Admin_page | BDCoE </title>
+
+	<!--  -->
+
+	<style>
+
+	</style>
+
+</head>
+
+<body>
+
+	<div class="container-fluid bg">
+          <div class="bdcoe">
+		       	<h1><b>BIG DATA</b></h1>
+
+		  </div>
+        <hr>   
+	<div class="row">
+<!--	<div class="col-md-3 col-sm-3 col-xs-12 tab">-->
+<!--	    Tabbings here-->
+	  
+<!--    </div>-->
+	
+	<div class="col-md-12 col-sm-12 col-xs-12 display">
+	    
+                <!--	    display part-->
+                    <ul class="nav nav-tabs">
+
+                    <li class="active"><a data-toggle="tab" href="#home">Add-Question</a></li>
+                    <li><a data-toggle="tab" href="#menu1">Student Marks</a></li>
+                    <li><a data-toggle="tab" href="#menu2">Logout</a></li>
+                  </ul>
+                <div class="tab-content">
+                        <div id="home" class="tab-pane fade in active">
+      
+                         <div class="question">
+                              <div class="question-add">
+                              <label for="comment">Question:</label>
+                              <textarea class="form-control" rows="5" id="comment"></textarea>
+                          </div>
+                          <div class="options">
+                              <input type="text" required placeholder="OPTION-1"><br><br>
+                              <input type="text" required placeholder="OPTION-2"><br><br>
+                              <input type="text" required placeholder="OPTION-3"><br><br>
+                              <input type="text" required placeholder="OPTION-4"><br><br>
+                          </div>
+                          
+                          <div class="buttons">
+                              <button type="button" class="btn btn-primary">Add-Question</button>&nbsp;&nbsp;&nbsp;
+<!--                              <button type="button" class="btn btn-danger">Delete-Question</button>-->
+                          </div>
+                          
+                      </div>
+                            </div>
+                            <div id="menu1" class="tab-pane fade">
+                             <table class="table">
+                                      <thead>
+                                        <tr>
+                                          <th scope="col">#</th>
+                                          <th scope="col">Name</th>
+                                          <th scope="col">Branch</th>
+                                          <th scope="col">Std-No.</th>
+                                          <th scope="col">Marks</th>
+                                          <th scope="col">Section-Wise Marks</th>
+                                        </tr>
+                                      </thead>
+                                      <tbody>
+                                        <tr>
+                                          <th scope="row">1</th>
+                                          <td>Mark</td>
+                                          <td>Otto</td>
+                                          <td></td>
+                                          <td></td>
+                                          <td></td>
+                                        </tr>
+                                </tbody>
+                                </table>    
+                                       
+                            </div>
+                            <div id="menu2" class="tab-pane fade">
+                              <button type="button" class="btn btn-warning">LogOut</button>
+                            </div>
+                           
+                
+                </div>
+	        </div>
+	    
+	    </div>
+
+	
+	
+	</div>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+	<script>
+	</script>
+
+</body>
+
+</html>

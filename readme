@@ -1,0 +1,3 @@
+--> Follow these instructions.
+1. Always run 'CREATE_RESPONSE_TABLE.php' after adding the questions. Otherwise response will not be stored.
+2. Category of algoritmic question is '6'. Do not change it. It is statically coded.

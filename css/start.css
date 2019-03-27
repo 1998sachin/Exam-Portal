@@ -1,0 +1,50 @@
+.primary-overlay {
+  background: rgba(112, 81, 176, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.main-header {
+  background: url(../img/background.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 600px;
+  color: #fff;
+}
+.main-header .showcase {
+  padding-top: 100px;
+}
+.active-link {
+  color: #d847f1;
+  font-weight: bold;
+}
+
+.section-about img {
+  margin-top: 10px;
+}
+
+.section-developers {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background: url(../img/code.jpg);
+  border-top: #333 solid 5px;
+  border-bottom: #333 solid 5px;
+  min-height: 180px;
+}
+
+.main-header-inner {
+  background: url(../img/background.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
+  color: #fff;
+}
+
+.main-header-inner .showcase {
+  padding-top: 50px;
+}

@@ -1,0 +1,78 @@
+.grid1{
+  border: 1px solid black;
+  /*border-radius: 50px;*/
+  float:left;
+  font-size: 1em;
+  text-align: center;
+  color: black;
+  margin: 5px 7px;
+  background-color: red;
+  width: 35px;
+  height: 35px;
+
+  border-radius: 17px;
+
+}
+.grid2{
+  border: 1px solid black;
+  /*border-radius: 50px;*/
+  float:left;
+  font-size: 1em;
+  color: black;
+  margin: 5px 7px;
+  background-color: #8e44ad;
+  width: 35px;
+  height: 35px;
+
+  border-radius: 17px;
+
+
+}
+.grid3{
+  border: 1px solid black;
+  /*border-radius: 50px;*/
+  float:left;
+
+  font-size: 1em;
+  color: black;
+  margin: 5px 7px;
+  background-color: #1abc9c;
+  width: 35px;
+  height: 35px;
+
+  border-radius: 17px;
+
+}
+.grid4{
+  border: 1px solid grey;
+  /*border-radius:50px;*/
+  float:left;
+  /* position: absolute; */
+  font-size: 1em;
+  color: black;
+  margin: 5px 7px;
+  background-color: white;
+  width: 35px;
+  height: 35px;
+  /* right: 20px; */
+
+  border-radius: 17px;
+
+}
+
+.grid4:hover {
+  border: 1px solid grey;
+  /*border-radius:50px;*/
+  float:left;
+  /* position: absolute; */
+  font-size: 1em;
+  color: black;
+  margin: 5px 7px;
+  background-color: red;
+  width: 35px;
+  height: 35px;
+  /* right: 20px; */
+
+  border-radius: 17px;
+
+}

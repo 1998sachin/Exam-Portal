@@ -1,0 +1,64 @@
+.bg{
+    background: url('/images/Big-Data.jpg')
+        no-repeat center center fixed;
+   background-size: cover;
+    height: 100vh;
+    font-family: 'Nunito', sans-serif;
+}
+
+.bdcoe{
+  font-family: 'Ubuntu', sans-serif;
+    padding-left: 70px;
+    margin: 0;
+    padding-top: 15px;
+    color: #34495e;
+    text-shadow: 2px 2px #3d6880;
+}
+
+hr {
+  border:none;
+  height: 10px;
+ 	width: 95%;
+	height: 50px;
+	margin-top: 0;
+	border-bottom: 1px solid #1f1209;
+	box-shadow: 0 20px 20px -20px #333;
+  margin: -50px auto 10px;
+}
+
+.form-container{
+    border: 1px solid;
+    padding: 50px 60px;
+    margin-top: 10vh;
+    -webkit-box-shadow: 1px 4px 26px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 4px 26px 11px rgba(0,0,0,0.75);
+box-shadow: 1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+
+.row h1{
+    font-size: 2.5em;
+    text-align: center;
+     font-family: 'Encode Sans Expanded', sans-serif;
+    letter-spacing: 8px;
+}
+
+
+.form-group{
+    font-size: 1.2em;
+    margin-top: 3vh;
+}
+
+.form-group:hover{
+    font-size: 1.6em;
+}
+
+
+.btn{
+    font-size: 1.5em;
+    background-color: transparent;
+    letter-spacing: 2.5px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 25px;
+}

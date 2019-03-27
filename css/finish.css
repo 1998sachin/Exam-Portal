@@ -1,0 +1,88 @@
+.container{
+    width: 100%;
+}
+
+
+
+
+
+
+.bdcoe{
+  font-family: 'Ubuntu', sans-serif;
+    padding-left: 70px;
+    margin: 0;
+    padding-top: 15px;
+    color: #34495e;
+    text-shadow: 2px 2px #3d6880;
+}
+
+hr {
+  border:none;
+  height: 10px;
+ 	width: 95%;
+	height: 50px;
+	margin-top: 0;
+	border-bottom: 1px solid #1f1209;
+	box-shadow: 0 20px 20px -20px #333;
+  margin: -50px auto 10px; 
+}
+
+
+.head{
+    font-size: 20px;
+    padding-top: 10px;
+    border: 1px solid #f3f3f3;
+    border-radius: 8px;
+    background-color: #f3f3f3;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    margin-top: 2%;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.time{
+    
+margin-top: 2%;
+    font-size: 2.5em;
+    width: 100%;
+    text-align: center;
+    color: red;
+}
+
+table{
+    margin-top: 3%;
+    margin-left: 5%;
+    border: 1px solid #34495e;
+    padding: 20px;
+   
+    
+    
+    
+}
+
+td,th{
+    border: 1px solid black;
+   text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+    font-weight: bold;
+    font-size: 1.2em;
+     font-family: 'Quicksand', sans-serif;
+    
+}
+.button{
+    width: 30%;
+    margin-top: 2%;
+   margin-left: 35%;
+   
+}
+
+.button button{
+    font-size: 1.5em;
+    font-weight: bold;
+     font-family: 'Quicksand', sans-serif;
+}
+
+

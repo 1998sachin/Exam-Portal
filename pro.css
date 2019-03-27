@@ -1,0 +1,109 @@
+
+
+.total{
+
+    margin: 150px 150px;
+     border: 0.5px solid  #f3f3f3;
+    border-radius: 10px; 
+    box-shadow: 10px 0 10px #95a5a6;
+    margin-top: 50px;
+}
+
+
+.head{
+    font-size: 20px;
+    padding-top: 20px;
+    background-color: #f3f3f3;
+    padding-bottom: 20px;
+    padding-left: 25px;
+}
+
+.bdcoe{
+  font-family: 'Ubuntu', sans-serif;
+    padding-left: 70px;
+    margin: 0;
+    padding-top: 15px;
+    color: #34495e;
+    text-shadow: 2px 2px #3d6880;
+}
+   
+    
+
+
+
+
+p{
+    font-size: 18px;
+}
+
+.instruction{
+    font-size: 18px;
+    padding-top: 18px;
+    padding-bottom: 15px;
+}
+
+table{
+    margin-left: 30px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    
+}
+
+td {
+    padding: 30px;
+    text-align: left;
+     font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    color:  #34495e;
+    font-size: 1.2em;
+    display: table-cell;
+/*    border: 1px solid black;*/
+    margin-left: 0;
+    padding-left: 15px;
+   
+
+}
+
+.email ,.mobile,.stdno,.branch{
+    text-align: left;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+
+
+
+
+.btn-block{
+    font-size: 25px;
+}
+
+hr {
+  border:none;
+  height: 10px;
+ 	width: 95%;
+	height: 50px;
+	margin-top: 0;
+	border-bottom: 1px solid #1f1209;
+	box-shadow: 0 20px 20px -20px #333;
+  margin: -50px auto 10px; 
+}
+
+header{
+    height: 5px;
+}
+.pro{
+    font-size: 1.3em;
+    color: #e7316a;
+    
+    
+}
+
+
+.link:hover{
+    text-decoration: none;
+}
+
+
+
+

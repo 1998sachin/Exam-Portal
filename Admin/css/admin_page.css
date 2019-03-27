@@ -1,0 +1,74 @@
+.bg{
+    width: 100%;
+}
+.bdcoe{
+  font-family: 'Ubuntu', sans-serif;
+    padding-left: 70px;
+    margin: 0;
+    padding-top: 15px;
+    color: #34495e;
+    text-shadow: 2px 2px #3d6880;
+}
+
+hr {
+  border:none;
+  height: 10px;
+ 	width: 95%;
+	height: 50px;
+	margin-top: 0;
+	border-bottom: 1px solid #1f1209;
+	box-shadow: 0 20px 20px -20px #333;
+  margin: -50px auto 10px;
+}
+.row{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.tab{
+/*    background-color: red;*/
+    height: 100vh;
+}
+
+.display{
+/*    background-color: green;*/
+    height: 100vh;
+    margin-top: 30px;
+}
+
+.question{
+/*    background-color: red;*/
+    margin-top: 30px;
+}
+
+.options{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.buttons{
+    margin-left: 30px;
+}
+.fade{
+    margin-top: 0px;
+    
+}
+
+.dis{
+    background-color: red;
+    margin-top: 0px;
+}
+
+#menu1{
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+
+#menu2{
+    margin-left: 50px;
+    margin-top: 50px;
+}
